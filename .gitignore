@@ -1,0 +1,6 @@
+.idea
+creds.json
+userids.txt
+*.pkl
+*.html
+__pycache__
